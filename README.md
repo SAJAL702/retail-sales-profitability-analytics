@@ -48,4 +48,4 @@ The project demonstrates data cleaning, data validation, SQL-based analysis, DAX
 4. To refresh the report, obtain the source dataset and configure the MySQL connection to your local database. The report currently uses the `retail_sales_analytics` database and `superstore_clean` table.
 
 ## Notes
-This project uses a Sample Superstore dataset for portfolio and learning purposes. Dataset availability and redistribution rights should be checked with the original source.
+This project uses a Sample Superstore dataset for learning purposes. Dataset availability and redistribution rights should be checked with the original source.
